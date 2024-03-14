@@ -1,0 +1,68 @@
+{
+  "allVideos": [
+    {
+      "caption": "Urugi Urugi",
+      "url": "https://www.youtube.com/embed/EvMS73TWIQA?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "image": "https://a10.gaanacdn.com/images/albums/10/7402710/crop_480x480_7402710.jpg",
+      "id": 4
+    },
+    {
+      "caption": "OK Jaanu Saajan Aayo Re",
+      "url": "https://www.youtube.com/embed/UAPRb_1BE7w?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "image": "https://1.bp.blogspot.com/-ZidnDGXSKvo/WE5CsYJoAAI/AAAAAAAAyUo/Tvye-L2ZuJ0zWEPlzlUgkGvKQQrUC4c7ACEw/s1600/ok-jaanu-poster-4.jpg",
+      "id": 5
+    },
+    {
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/LANDSCAPE_1200/PREMALU-HQ-%20For%20Post.jpg",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "categoryname": "songs",
+      "video": [
+        {
+          "caption": "OK Jaanu Saajan Aayo Re",
+          "url": "https://www.youtube.com/embed/UAPRb_1BE7w?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "image": "https://1.bp.blogspot.com/-ZidnDGXSKvo/WE5CsYJoAAI/AAAAAAAAyUo/Tvye-L2ZuJ0zWEPlzlUgkGvKQQrUC4c7ACEw/s1600/ok-jaanu-poster-4.jpg",
+          "id": 5
+        },
+        {
+          "caption": "Urugi Urugi",
+          "url": "https://www.youtube.com/embed/EvMS73TWIQA?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "image": "https://a10.gaanacdn.com/images/albums/10/7402710/crop_480x480_7402710.jpg",
+          "id": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryname": "trailers",
+      "video": [
+        {
+          "caption": "Premalu",
+          "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+          "image": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/LANDSCAPE_1200/PREMALU-HQ-%20For%20Post.jpg",
+          "id": 6
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "OK Jaanu Saajan Aayo Re",
+      "url": "https://www.youtube.com/embed/UAPRb_1BE7w?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "datetime": "2024-03-14T05:17:27.118Z",
+      "id": 1
+    },
+    {
+      "caption": "Premalu",
+      "url": "https://www.youtube.com/embed/rR_2ti4l3nM?si=jNGHf3xthjZ6Kpgy&autoplay=1",
+      "datetime": "2024-03-14T05:17:33.726Z",
+      "id": 2
+    }
+  ]
+}
